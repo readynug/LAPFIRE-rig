@@ -1,7 +1,7 @@
 # LAPFIRE-rig
 LAPFIRE-rig : (Laboratory Apparatus for Polymer-based Facade Fire Testing)
 
-# Façade Fire Behavior Testing Apparatus
+# Façade Fire Behavior Testing Apparatus (Laboratory-Scale)
 
 Welcome to the repository for our integrated laboratory-scale apparatus designed for façade fire testing. 
 This experimental rig incorporates advanced tools such as mass balances, a thermal camera system, a cross-sectional camera, and a cone calorimeter system, all supported by a robust aluminum profile mainframe. 
